@@ -1,7 +1,7 @@
 # AppHamburgueria
 
 ## 📱 Descrição
-O #AppHamburgueria# permite ao usuário acessar um catálogo de hamburgueres e bebidas por meio de um cadastro, também permite acesso ao whatsapp para efetuar pedidos.
+O *AppHamburgueria* permite ao usuário acessar um catálogo de hamburgueres e bebidas por meio de um cadastro, também permite acesso ao whatsapp para efetuar pedidos.
 
 ## 🔧 Funcionalidades
 - [X] Entrada de dados(nome, email, senha e telefone)
